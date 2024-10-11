@@ -26,7 +26,7 @@ This Flutter application demonstrates a complex user interface built using `Colu
    ```
 2. Navigate into the project directory:
    ```bash
-   cd complex-ui-flutter
+   cd lab4_task2
    ```
 3. Run the app:
    ```bash
