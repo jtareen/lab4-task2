@@ -12,6 +12,9 @@ TextButton primaryButton(String buttonText) {
         foregroundColor: Colors.white, // Text color
         shape:
             RoundedRectangleBorder(borderRadius: BorderRadius.circular(10.0))),
-    child: Text(buttonText),
+    child: Text(
+      buttonText,
+      style: const TextStyle(fontSize: 16),
+    ),
   );
 }
